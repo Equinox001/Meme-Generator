@@ -1,0 +1,17 @@
+body {
+  color: white
+  font-size: 36px;
+}
+#pic {
+  z-index: -1;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+#text1 {
+  margin-bottom: 450px; 
+  margin-left: 200px;
+}
+#text2 {
+  margin-left: 200px;
+}
